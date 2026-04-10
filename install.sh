@@ -74,5 +74,5 @@ echo "╚═══════════════════════�
 echo -e "${W}\n"
 
 echo -e "${C}To start RHD Toolkit:${W}"
-echo -e "  ${Y}cd rhd-toolkit && ./rhd-toolkit.sh${W}"
-echo -e "  ${Y}OR simply type: rhd${W}\n"
+echo -e "  ${Y}cd sngr && ./apksigner.sh${W}"
+
