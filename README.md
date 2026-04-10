@@ -41,4 +41,4 @@
 
 ### One-Line Installer
 ```bash
-curl -sSL https://raw.githubusercontent.com/rahadhasan666/sngrv2/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/rahadhasan666/rhd-toolkit/main/install.sh | bash
